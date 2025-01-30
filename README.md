@@ -1,0 +1,1 @@
+# EstudioDeFala-AzureIA-AnaliseDeTexto
